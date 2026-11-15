@@ -203,7 +203,7 @@ export function InvitationDetailsSection() {
 
         <div className="invitation-details-copy">
           <p id="invitation-details-title" className="invitation-details-intro">
-            You are invited to the wedding festivities of
+            You are invited to the Vows & forever of
           </p>
 
           <div className="invitation-person">

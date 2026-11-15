@@ -229,7 +229,7 @@ export function HeroSection() {
               ॐ श्री गणेशाय नमः
             </p>
             <p ref={welcomeRef} className="hero-welcome">
-              Welcome to the wedding festivities of
+              Welcome to the Vows & forever of
             </p>
             <h1 ref={namesRef} className="hero-names">
               Ishita <span>&amp;</span> Prateek
